@@ -2,9 +2,9 @@
 
 # Industrial Machine Learning - Alejandro Saucedo
 
-![React.js Slides: axsauze/Industrial-Machine-Learning](https://github.com/axsauze/industrial-machine-learning)
+[React.js Slides: axsauze/Industrial-Machine-Learning](https://github.com/axsauze/industrial-machine-learning)
 
-![Code: axsauze/crypto-ml](https://github.com/axsauze/crypto-ml)
+[Code: axsauze/crypto-ml](https://github.com/axsauze/crypto-ml)
 
 Adding slides:
 > 0. Fork this repository.
