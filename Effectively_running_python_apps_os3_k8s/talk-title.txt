@@ -1,0 +1,1 @@
+Effectively running python applications in Kubernetes/OpenShift: http://bit.ly/os3work
