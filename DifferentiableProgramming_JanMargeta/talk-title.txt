@@ -1,0 +1,2 @@
+Differentiable programming in Python and Gluon for (not only medical) image analysis - Jan Margeta
+
