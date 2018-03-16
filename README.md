@@ -8,6 +8,6 @@ Adding slides:
 > 4. Create Pull Request.
 
 # Copyright:
-Unless there is a license in the folder along with presentation, please contact author if you whish to use his/hers materials.
+Unless there is a license in the folder along with presentation, please contact author if you wish to use their material.
 
 # Thank You!
